@@ -1,5 +1,5 @@
 # eml-reducer
-Python script to reduce the size of eml files by removing all attachments.
+Python script to reduce the size of eml files by removing all attachments (attached or inline).
 
 ## Installation
 Tested with Python 3.11.5, no extra module needs to be installed.
